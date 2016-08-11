@@ -39,7 +39,7 @@ int main()
 void function1(int num1, int num2) {
 	//add two numbers and display the result
 
-	cout << "Edited by : " << endl;
+	cout << "Edited by : Rits " << endl;
 }
 
 void function2(int num1, int num2) {
