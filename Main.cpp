@@ -15,6 +15,7 @@ void function8(int num1, int num2);
 
 int main()
 {
+	//testing branches
 	int num1 = 93;
 	int num2 = 46;
 	int num3 = 38;
@@ -82,4 +83,3 @@ void function8(int num1, int num2) {
 
 	cout << "Edited by : " << endl;
 }
-
