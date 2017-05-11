@@ -40,7 +40,7 @@ void function1(int num1, int num2) {
 	//add two numbers and display the result
 
 	cout << "Edited by : Rits " << endl;
-	cout << "Testing Gitkraken" << endl;
+	cout << "Testing Gitkraken again" << endl;
 }
 
 void function2(int num1, int num2) {
